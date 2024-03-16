@@ -1,8 +1,5 @@
-.name-of-game {
-    font-family: Futura, Georgia, "Times New Roman", serif;
-}
-
-.player-select {
+.flex-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    align-items: center;
 }
